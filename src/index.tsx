@@ -1,6 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+// import './tailwind.output.css';
+import './assets/fonts/Graphik/@font-face/style.css'
+import './assets/fonts/GT Walsheim Pro/@font-face/style.css'
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
