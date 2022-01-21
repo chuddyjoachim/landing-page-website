@@ -44,24 +44,24 @@ const Footer = () => {
                   </ul>
                   <ul className="">
                     <li className="">
-                      <h2 className="GT-Walsheim-Pro text-lg">Information</h2>
+                      <h2 className="GT-Walsheim-Pro text-lg">Job Seekers</h2>
                       <div className="mt-6">
                         <ul className="flex flex-col justify-start space-y-3">
-                          <li className="">About Us</li>
-                          <li className="">Contact Us</li>
-                          <li className="">Terms {'&'} Condition</li>
+                          <li className="">Create Account</li>
+                          <li className="">Job List</li>
+                          <li className="">FAQ</li>
                         </ul>
                       </div>
                     </li>
                   </ul>
                   <ul className="">
                     <li className="">
-                      <h2 className="GT-Walsheim-Pro text-lg">Information</h2>
+                      <h2 className="GT-Walsheim-Pro text-lg">Employers</h2>
                       <div className="mt-6">
                         <ul className="flex flex-col justify-start space-y-3">
-                          <li className="">About Us</li>
-                          <li className="">Contact Us</li>
-                          <li className="">Terms {'&'} Condition</li>
+                          <li className="">Create Account</li>
+                          <li className="">Job List</li>
+                          <li className="">FAQ</li>
                         </ul>
                       </div>
                     </li>
@@ -70,7 +70,9 @@ const Footer = () => {
               </div>
               <div className="right w-full break-1:w-1/5">
                 <div className="">
-                  <h2 className="GT-Walsheim-Pro text-center break-1:text-left text-lg">Social Media:</h2>
+                  <h2 className="GT-Walsheim-Pro text-center break-1:text-left text-lg">
+                    Social Media:
+                  </h2>
                   <div className="mt-6">
                     <ul className="flex flex-row justify-center break-1:justify-start items-center space-x-2">
                       <li className="">
