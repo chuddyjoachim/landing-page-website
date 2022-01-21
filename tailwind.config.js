@@ -17,6 +17,12 @@ module.exports = {
       boxShadow: {
         'custom-1': '0px 10px 30px 0px rgba(6, 148, 42, 0.05)', //box-shadow: 0px 10px 30px 0px rgba(6, 148, 42, 0.05);
       },
+      screens: {
+        'break-1': '812px',
+      },
+      maxWidth: {
+        '1300': '1300px',
+      }
     },
   },
   plugins: [],
